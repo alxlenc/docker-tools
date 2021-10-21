@@ -1,7 +1,7 @@
 alembic==1.4.2
 arrow==0.15.5
 b2sdk==1.0.2
-babel==2.8.0
+babel==2.9.1
 boto3==1.12.40
 botocore==1.15.40
 connexion==2.6.0
