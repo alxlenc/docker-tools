@@ -17,7 +17,7 @@ mock==4.0.2
 passlib==1.7.2
 pycryptodomex==3.9.7
 Pillow==6.2.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyMySQL==0.9.3
 # pytest has to be installed inside workspace's virtualenv
 # pytest==5.4.1
