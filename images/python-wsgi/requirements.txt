@@ -15,7 +15,7 @@ geocoder==1.38.1
 jsonschema==3.2.0
 icalendar==4.0.5
 itsdangerous==1.1.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 passlib==1.7.2
 Pillow==6.2.2
 pycryptodomex==3.9.7
