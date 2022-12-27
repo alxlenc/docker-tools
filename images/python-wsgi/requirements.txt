@@ -23,7 +23,7 @@ PyMySQL==0.9.3
 pytz==2019.3
 redis==3.4.1
 requests==2.23.0
-setuptools==45.0.0
+setuptools==65.5.1
 SQLAlchemy==1.3.16
 SQLAlchemy-Utils==0.36.3
 swagger-ui-bundle==0.0.6
